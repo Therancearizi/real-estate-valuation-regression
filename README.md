@@ -125,7 +125,6 @@ multicollinearity.
 ![Model Selection](images/model-selection.png)
 
 I used **Best Subsets Regression** to compare candidate models using:
-
 - Adjusted R²
 - Predicted R²
 - Mallows' Cp
@@ -138,7 +137,6 @@ and model complexity.
 **Selected predictors**
 
 `Transaction Date + House Age + MRT Distance + Convenience Stores + Latitude`
-
 Longitude was excluded from the final specification.
 
 ---
@@ -148,10 +146,4 @@ Longitude was excluded from the final specification.
 The selected regression model is:
 
 ```text
-Price =
--13216.810
-+ 3.829(Transaction Date)
-- 0.324(House Age)
-- 0.004(MRT Distance)
-+ 1.222(Convenience Stores)
-+ 222.326(Latitude)
+Price =-13216.810+ 3.829(Transaction Date)-0.324(House Age)- 0.004(MRT Distance)+ 1.222(Convenience Stores)+ 222.326(Latitude)
