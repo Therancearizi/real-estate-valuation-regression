@@ -10,15 +10,13 @@ library(MLmetrics)
 library(performance)
 
 
-
 ## data processing
 library(readr)
 library(olsrr)
 REAL.ESTATE.DATA<-read.csv("REAL ESTATE VALUATION DATA.csv",header=TRUE)
 
 
-
-## Data isualization 
+## Data visualization
 
 # Assuming REAL_ESTATE is your data frame
 
