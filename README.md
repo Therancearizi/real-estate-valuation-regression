@@ -158,5 +158,4 @@ https://github.com/Therancearizi/real-estate-valuation-regression/blob/main/Rcod
 
 ##  Project Report
 The complete report contains the methodology, exploratory analysis, statistical output, model-selection process, diagnostic plots, interpretations, limitations, and conclusions.
-
-📄 [View Full Project Report](report/real_estate_valuation_report.pdf)
+https://github.com/Therancearizi/real-estate-valuation-regression/blob/main/PREDICTIVE%20MODEL%20FOR%20REAL%20ESTATE%20.pdf
