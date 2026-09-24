@@ -126,7 +126,6 @@ multicollinearity.
 
 ## Model Selection
 
-![Model Selection](images/model-selection.png)
 
 I used **Best Subsets Regression** to compare candidate models using:
 - Adjusted R²
