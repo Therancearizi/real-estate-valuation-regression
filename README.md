@@ -35,7 +35,7 @@ New Taipei City.
 
 The original dataset contains **414 observations** and has no missing values.
 
-[View Dataset](data/real_estate_valuation.csv)
+https://github.com/Therancearizi/real-estate-valuation-regression/blob/main/REAL%20ESTATE%20VALUATION%20DATA.csv
 
 ## Variables
 
