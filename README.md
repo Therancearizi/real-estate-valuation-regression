@@ -17,6 +17,12 @@ In this project, I analyzed real-estate transactions from **Sindian District,
 New Taipei City, Taiwan** and developed a multiple linear regression model to
 predict **house price per unit area**.
 
+## Data Source
+
+The dataset was obtained from the **UCI Machine Learning Repository**:
+
+[Real Estate Valuation Data Set](https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set)
+
 ### Results at a Glance
 
 | Metric | Result |
