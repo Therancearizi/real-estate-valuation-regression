@@ -156,12 +156,9 @@ observation diagnostics were also examined.
 The R code used for data exploration, regression modeling, model selection,
 and diagnostic analysis is available here:
 
-[View R Analysis Code](analysis.R)
+[[View R Analysis Code](analysis.R](https://github.com/Therancearizi/real-estate-valuation-regression/blob/main/Rcode))
 
 ## Full Project Report
-
-The complete report contains the methodology, exploratory analysis,
-statistical output, model-selection process, diagnostic plots,
-interpretations, limitations, and conclusions.
+The complete report contains the methodology, exploratory analysis, statistical output, model-selection process, diagnostic plots, interpretations, limitations, and conclusions.
 
 📄 [View Full Project Report](report/real_estate_valuation_report.pdf)
