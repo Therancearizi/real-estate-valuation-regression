@@ -72,8 +72,6 @@ I approached the problem through four stages:
 
 ### What drives property prices?
 
-![Correlation Matrix](images/correlation.png)
-
 The exploratory analysis revealed several important relationships:
 
 - **MRT distance** has a strong negative relationship with property price.
@@ -89,7 +87,7 @@ important roles in the predictive model.
 
 ## Outliers & Influential Observations
 
-![Cook's Distance](images/cooks-distance.png)
+
 
 I used boxplots and **Cook's Distance** to investigate potentially influential
 observations.
